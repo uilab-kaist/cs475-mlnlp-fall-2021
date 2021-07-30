@@ -25,6 +25,9 @@ This course will cover advanced and state-of-the-art machine learning for text d
 - Conduct replication studies based on a recent NLP+ML paper
 - Communicate in written and spoken English about NLP+ML research
 
+## Time
+- Mon/Wed 10:30 - 12:00
+
 ## Course Addition
 We decided not to approve requests for course addition. We ask for your kind understanding regarding this matter.
 
