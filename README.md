@@ -49,10 +49,10 @@ All the deadlines are 23:59 unless specified.
 | 2021.08.30, 2021.09.01 | Introduction, N-gram Language Models       |                                                     |                      |
 | 2021.09.06, 2021.09.08 | Word Vectors & Distributed Semantic        | Team Building (2021.09.10)                          | HW1 out (2021.09.06) |
 | 2021.09.13, 2021.09.15 | Neural Network Basics                      |                                                     | HW1 end (2021.09.17or19) |
-| 2021.09.20, 2021.09.22 | Chuseok (Hoilday)                          |                                                     |                      |
+| 2021.09.20, 2021.09.22 | No Class (Chuseok Hoilday)                 |                                                     |                      |
 | 2021.09.27, 2021.03.29 | Recurrent Neural Networks                  |                                                     | HW2 out (2021.09.27) |
-| 2021.10.04, 2021.10.06 | No Class / Transformers                    |                                                     | HW2 end (2021.10.10) |
-| 2021.10.11, 2021.10.13 | No Class / Project Proposal                | Slide Submission (the day before your presentation) |                      |
+| 2021.10.04, 2021.10.06 | No Class (Hoilday) / Transformers          |                                                     | HW2 end (2021.10.10) |
+| 2021.10.11, 2021.10.13 | No Class (Hoilday) / Project Proposal      | Slide Submission (the day before your presentation) |                      |
 | 2021.10.18, 2021.10.20 | No Class (Midterm)                         |                                                     |                      |
 | 2021.10.25, 2021.10.27 | Neural Languague Models (ELMo, BERT, etc.) |                                                     | HW3 out (2021.10.25) |
 | 2021.11.01, 2021.11.03 | AI for Social Good / Ethics in NLP         |                                                     | HW3 end (2021.11.07) |
