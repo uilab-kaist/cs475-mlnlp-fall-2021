@@ -48,7 +48,7 @@ All the deadlines are 23:59 unless specified.
 |------------------------|--------------------------------------------|-----------------------------------------------------|----------------------|
 | 2021.08.30, 2021.09.01 | Introduction, N-gram Language Models       |                                                     |                      |
 | 2021.09.06, 2021.09.08 | Word Vectors & Distributed Semantic        | Team Building (2021.09.10)                          | HW1 out (2021.09.06) |
-| 2021.09.13, 2021.09.15 | Neural Network Basics                      |                                                     | HW1 end (2021.09.17or19) |
+| 2021.09.13, 2021.09.15 | Neural Network Basics                      |                                                     | HW1 end (2021.09.19) |
 | 2021.09.20, 2021.09.22 | No Class (Chuseok Hoilday)                 |                                                     |                      |
 | 2021.09.27, 2021.03.29 | Recurrent Neural Networks                  |                                                     | HW2 out (2021.09.27) |
 | 2021.10.04, 2021.10.06 | No Class (Hoilday) / Transformers          |                                                     | HW2 end (2021.10.10) |
