@@ -56,7 +56,7 @@ All the deadlines are 23:59 unless specified.
 | 2021.10.18, 2021.10.20 | No Class (Midterm)                         |                                                     |                      |
 | 2021.10.25, 2021.10.27 | Neural Languague Models (ELMo, BERT, etc.) |                                                     | HW3 out (2021.10.25) |
 | 2021.11.01, 2021.11.03 | AI for Social Good / Ethics in NLP         |                                                     | HW3 end (2021.11.07) |
-| 2021.11.08, 2021.11.10 | Paper Presentation                         | Slide Submission (the day before your presentation) |                      |
+| 2021.11.08, 2021.11.10 | Replication Presentation                   | Slide Submission (the day before your presentation) |                      |
 | 2021.11.15, 2021.11.17 | Question Answering                         |                                                     |                      |
 | 2021.11.22, 2021.11.24 | Machine Translation                        |                                                     |                      |
 | 2021.11.29, 2021.12.01 | Korean NLP and Multilinguality             |                                                     |                      |
