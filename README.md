@@ -71,6 +71,9 @@ All the deadlines are 23:59 unless specified.
 1. RNN Family
 1. BERT
 
+## Attendance and Participation
+Sometimes (expect about 12 times during the semester), we will have a "quiz" in class. The grade will be 0 or 1, so if you turn in an answer, you will get credit. The format will be different for each class. If you miss up to 2 classes, there will be no penalty. After 2, points will be taken off. Because you can miss up to 2 for free, we will not take any excuses for missing the class (unless you have a special case, such as prolonged sickness, in which case you should email the teaching staff).
+
 ## Team Projects
 
 - You will form teams of *three or four*, and as a team, pick one NLP paper from ACL, EMNLP, NAACL, TACL, NeurIPS, ICML, and ICLR, published in 2018 to 2021, and replicate it. You will be required to change at least one thing -- dataset, model, or research question. More details will be given out during the first week of class.
