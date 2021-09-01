@@ -57,7 +57,7 @@ All the deadlines are 23:59 unless specified.
 | 2021.10.04, 2021.10.06 | No Class (Hoilday) / Transformers          |                                                     | HW2 end (2021.10.10) |
 | 2021.10.11, 2021.10.13 | No Class (Hoilday) / Project Proposal      | Slide Submission (the day before your presentation) |                      |
 | 2021.10.18, 2021.10.20 | No Class (Midterm)                         |                                                     |                      |
-| 2021.10.25, 2021.10.27 | Neural Language Models (ELMo, BERT, etc.) |                                                     | HW3 out (2021.10.25) |
+| 2021.10.25, 2021.10.27 | Neural Language Models (ELMo, BERT, etc.)  |                                                     | HW3 out (2021.10.25) |
 | 2021.11.01, 2021.11.03 | AI for Social Good / Ethics in NLP         |                                                     | HW3 end (2021.11.07) |
 | 2021.11.08, 2021.11.10 | Replication Presentation                   | Slide Submission (the day before your presentation) |                      |
 | 2021.11.15, 2021.11.17 | Question Answering                         |                                                     |                      |
@@ -79,7 +79,8 @@ All the deadlines are 23:59 unless specified.
 ## Evaluation
 Your grade will be a combination of the following:
 
-- Homework 40%
+- Homework 30%
+- Attendance & Participation 10%
 - Team Project 50% 
   - Proposal 5%
   - Paper presentation 10%
