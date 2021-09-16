@@ -62,7 +62,7 @@ All the deadlines are 23:59 unless specified.
 | 2021.11.08, 2021.11.10 | Replication Presentation                   | Slide Submission (the day before your presentation) |                      |
 | 2021.11.15, 2021.11.17 | Question Answering                         |                                                     |                      |
 | 2021.11.22, 2021.11.24 | Datasets & Artifacts                       |                                                     |                      |
-| 2021.11.29, 2021.12.01 | Korean NLP and Multilinguality             |                                                     |                      |
+| 2021.11.29, 2021.12.01 | Guest Lecture / Korean NLP and Multilinguality |                                                     |                      |
 | 2021.12.06, 2021.12.08 | Final Project Presentation                 | Slide Submission (the day before your presentation) |                      |
 | 2021.12.13, 2021.12.15 | No Class (Finalterm)                       | Final Report (2021.12.13)                           |                      |
 
