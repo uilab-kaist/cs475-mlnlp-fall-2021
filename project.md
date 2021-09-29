@@ -5,6 +5,7 @@
   - slide submission deadline: **23:59, the day before your presentation**
   - Peer grading: Real-time
  
+- Week  6 (10/05): **Paper selection**
 - Week  7 (10/13): **Project proposal, Peer grading**
 - Week 11 (11/08, 11/10): **Replication presentation, Peer grading**
 - Week 15 (12/06, 12/08): **Final presentation, Peer grading**
