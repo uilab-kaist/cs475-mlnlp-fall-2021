@@ -54,7 +54,7 @@ All the deadlines are 23:59 unless specified.
 | 2021.09.13, 2021.09.15 | Text Classification (NB, LR, NN)           |                                                     | HW1 end (2021.09.19) |
 | 2021.09.20, 2021.09.22 | No Class (Chuseok Hoilday)                 |                                                     |                      |
 | 2021.09.27, 2021.03.29 | Recurrent Neural Networks                  |                                                     | HW2 out (2021.09.27) |
-| 2021.10.04, 2021.10.06 | No Class (Hoilday) / Transformers          |                                                     | HW2 end (2021.10.10) |
+| 2021.10.04, 2021.10.06 | No Class (Hoilday) / Transformers          | Paper Selection (2021.10.05)                        | HW2 end (2021.10.10) |
 | 2021.10.11, 2021.10.13 | No Class (Hoilday) / Project Proposal      | Slide Submission (the day before your presentation) |                      |
 | 2021.10.18, 2021.10.20 | No Class (Midterm)                         |                                                     |                      |
 | 2021.10.25, 2021.10.27 | Neural Language Models (ELMo, BERT, etc.)  |                                                     | HW3 out (2021.10.25) |
